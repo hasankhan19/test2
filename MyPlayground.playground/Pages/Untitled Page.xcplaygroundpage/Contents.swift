@@ -79,6 +79,8 @@ func twoNumberSum(array: [Int], targetSum: Int) -> [Int] {
 }
 print(twoNumberSum(array: array, targetSum: 10))
 
+//hi
+
 
     
 
